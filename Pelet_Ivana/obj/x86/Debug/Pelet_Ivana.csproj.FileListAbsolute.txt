@@ -1,0 +1,9 @@
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\bin\Debug\Pelet_Ivana.exe
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\bin\Debug\Pelet_Ivana.pdb
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\obj\x86\Debug\Pelet_Ivana.Form1.resources
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\obj\x86\Debug\Pelet_Ivana.Properties.Resources.resources
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\obj\x86\Debug\Pelet_Ivana.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\obj\x86\Debug\Pelet_Ivana.exe
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\obj\x86\Debug\Pelet_Ivana.pdb
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\bin\Debug\Pelet_Ivana.exe.config
+C:\Users\Ivana\Desktop\TMPISPIT\Pelet_Ivana\Pelet_Ivana\obj\x86\Debug\Pelet_Ivana.Podesavanja.resources
